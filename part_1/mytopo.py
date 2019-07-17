@@ -1,6 +1,6 @@
 """Custom topology example
 
-Two directly connected switches plus a host for each switch:
+Three hosts connected to a Switch:
 
    host ----  Router ----- host
 		|
